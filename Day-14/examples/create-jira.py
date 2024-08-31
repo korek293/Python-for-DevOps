@@ -10,7 +10,6 @@ API_TOKEN = ""
 
 auth = HTTPBasicAuth("", API_TOKEN)
 
-
 headers = {
   "Accept": "application/json",
   "Content-Type": "application/json"
